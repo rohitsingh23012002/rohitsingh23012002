@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @rohitsingh23012002
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Android studio
